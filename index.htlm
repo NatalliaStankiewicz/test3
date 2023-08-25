@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My Page</title>
+        </head>
+<body>
+<CENTER><h1>Hi! I'm Natallia Stankiewicz!</h1></CENTER>
+<h2>What you need to know about me</h2>
+<p> I'm a  <B>very</B> hard-working person</p>
+<i><p>I know that eventually I will reach any of the goals I set</p></i>
+<p> My biggest goal now is to become a <B> Slaesforce Developer</B>.</p>
+<img src="https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2022/10/19070942/TED-Talk-What-Is-YOUR-Definition-of-Success-1024x512.jpg">
+<h2>Below is the link to my LinkedIN Account</h2>
+<A href="https://www.linkedin.com/in/natalliasalesforce/"> LinkedIN </A>
+<EMBED src="https://www.youtube.com/watch?v=CcHtnF7Qrfo" autostart="true" hidden="false" loop="false"><noembed><bgsound src="https://www.youtube.com/watch?v=CcHtnF7Qrfo" loop="1"></noembed>
+    <FORM METHOD=post ACTION="/cgi-bin/example.cgi">
+        <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="2"><TR><TD BGCOLOR="#8463FF"><INPUT type="text" size="10" MAXLENGTH="30"></TD><TD BGCOLOR="#8463FF" VALIGN="Middle"> <INPUT type="image" name="Your question" src="yourimage.gif"></TD></TR> </TABLE>
+        </FORM>
+        <DIV align="center"><TABLE> <TR>
+            <TH><B>Column 1</B></TH> <TH><B>Column 2</B></TH> <TH><B>Column 3</B></TH>
+            </TR> <TR> <TD>CSS <TD>JS <TD>HTML </TR> <TR> <TD> English<TD>Russian <TD>German</TR> <TR> <TD>USA <TD>Russia<TD>Germany </TR> </TABLE> </DIV>
+            2</TD> 2</TD> 2</TD>
+            3</TD> 3</TD> 3</TD>
+            4</TD> 4</TD> 4</TD>
+</body>
+</html>
